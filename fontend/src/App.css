@@ -1,0 +1,53 @@
+body{
+  background-color: #000000;
+}
+
+.bg{
+  background-color: #d62e47;
+}
+
+.container {
+  text-align: center;
+  min-height: 100vh;
+  background: #ffccdb;
+  padding: 2rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #ff6f91;
+  margin-bottom: 1.5rem;
+}
+
+.fetch-button {
+  background-color: #ffc0cb;
+  border: none;
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.fetch-button:hover {
+  background-color: #ffb6c1 !important;
+  color: #000 !important;
+}
+
+.card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dog-card {
+  width: 320px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.dog-image {
+  height: 320px;
+  object-fit: cover;
+  border-radius: 16px 16px 0 0;
+}
