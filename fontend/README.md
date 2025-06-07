@@ -1,12 +1,29 @@
-# React + Vite
+# 🐶 Cute Pup Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Cute Pup Viewer** – a charming little app that fetches and displays **random dog images** using the 🐾 [Dog CEO API](https://dog.ceo/dog-api/)!  
+Built with 💖 using **React + Vite + Ant Design**, this project brings a bit of joy, one fluffy face at a time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎀 Fetches a new random dog image on button click  
+- 🌸 Pinterest-style soft and aesthetic UI  
+- 🐾 Uses [Dog API](https://dog.ceo/api/breeds/image/random) to keep things exciting  
+- 💅 Styled with Ant Design and custom CSS for a clean, cute feel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/aditi-560/Dogs-img-generator.git
+cd frontend
+npm i
+npm run dev
+
+```
+### 🙋‍♀️ Made by
+Aditi Singh
